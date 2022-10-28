@@ -1,0 +1,44 @@
+body {
+    background-color:moccasin;
+    margin: 0% 10%;
+    text-align: justify;
+    font-size: 14pt;
+    color: dimgray;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    margin: 0.5ex auto;
+    color: black;
+}
+
+/* h1 usually indicates a title or similar */
+h1 {
+    font-size: 36;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+p {
+    text-indent: 2em;
+    font-family: serif;
+    margin: 0.25ex auto;
+}
+
+img {
+    border: 5px groove black;
+    margin: 4ex auto 0.5ex auto;
+}
+
+a:visited {
+    color: burlywood;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
